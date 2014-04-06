@@ -1,9 +1,6 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activeresource (2.3.18)
-      activesupport (= 2.3.18)
-    activesupport (2.3.18)
     addressable (2.3.6)
     builder (3.2.2)
     descendants_tracker (0.0.4)
@@ -74,7 +71,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activeresource
   bundler (~> 1.0)
   dotenv
   httparty
