@@ -1,5 +1,6 @@
 require 'simplecov'
-
+require 'dotenv'
+Dotenv.load
 module SimpleCov::Configuration
   def clean_filters
     @filters = []

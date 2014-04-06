@@ -14,11 +14,11 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
-  gem.name = "putio"
+  gem.name = "putio-api"
   gem.homepage = "http://github.com/noahpryor/putio"
   gem.license = "MIT"
-  gem.summary = %Q{Put Io API wrapper}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Put.io API wrapper}
+  gem.description = "Provides methods for interacting with the Put io web API"
   gem.email = "noah@noahpryor.com"
   gem.authors = ["Noah Pryor"]
   # dependencies defined in Gemfile
