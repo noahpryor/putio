@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "lib/putio.rb",
     "lib/putio/client.rb",
     "lib/putio/configuration.rb",
+    "putio-api.gemspec",
     "spec/client_spec.rb",
     "spec/configuration_spec.rb",
     "spec/spec_helper.rb"
